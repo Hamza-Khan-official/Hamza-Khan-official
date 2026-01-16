@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamza-Khan-official</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
 <h3 align="center">Aspiring Full-Stack Developer | MERN Learner</h3>
 
 - 🔭 I’m currently working on MERN stack development
