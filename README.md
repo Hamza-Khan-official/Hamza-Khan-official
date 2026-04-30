@@ -81,13 +81,9 @@ const hamza = {
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kh.hamza56789@gmail.com)
 &nbsp;&nbsp;
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-muhammad-hamza/)
-
 &nbsp;&nbsp;
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamza-Khan-official/)
-
 <br/>
 
 > *"Every expert was once a beginner. Keep building, keep growing."* 🚀
